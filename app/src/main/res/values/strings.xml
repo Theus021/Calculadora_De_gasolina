@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GasMoney</string>
+    <string name="black_car">blackCar</string>
+    <string name="gas_money">Gas Money</string>
+    <string name="abaste_a_com_gasolina">Abasteça com Gasolina</string>
+    <string name="_00_de_economia">00% de economia</string>
+    <string name="_00_00_reais_economizados_a_cada_litro_de_gasolina_abastecido">00,00 Reais Economizados a cada litro de gasolina abastecido.</string>
+    <string name="_00_00">00,00</string>
+    <string name="digite_abaixo_o_pre_o_de_ambos_os_combustiv_is">Digite abaixo o preço de ambos os combustivéis</string>
+    <string name="divisor">divisor</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="alcool">Álcool</string>
+    <string name="sinaliza_o">sinalização</string>
+    <string name="sinaliza_o_2">sinalização_2</string>
+    <string name="_00_00_">00,00</string>
+    <string name="__00_00">00,00</string>
+    <string name="bomba_de_gasolina">bomba_de_gasolina</string>
+    <string name="dinheiro">dinheiro</string>
+    <string name="coin">coin</string>
+    <string name="sabemos_que_o_lcool_mais_barato_m_s_qual_sera_mais_vantajoso_para_o_meu_carro">Sabemos que o Álcool é mais barato, más qual sera mais vantajoso para o meu carro ?</string>
+    <string name="calcular">Calcular</string>
+    <string name="as_money">as Money</string>
+    <string name="logo">Logo</string>
+    <string name="lcool_ou_gasolina">Álcool ou Gasolina ?</string>
+    <string name="gasolina_">Gasolina</string>
+    <string name="x">X</string>
+    <string name="etanol">Etanol</string>
+    <string name="veja_a_baixo_o_valor_de_ambos_os_combustiv_is">Veja a baixo o valor de ambos os combustivéis</string>
+    <string name="veja_o_melhor_custo_beneficio">veja o melhor custo beneficio</string>
+</resources>
