@@ -27,4 +27,23 @@
     <string name="etanol">Etanol</string>
     <string name="veja_a_baixo_o_valor_de_ambos_os_combustiv_is">Veja a baixo o valor de ambos os combustivéis</string>
     <string name="veja_o_melhor_custo_beneficio">veja o melhor custo beneficio</string>
+    <string name="de_economia">% De Economia</string>
+    <string name="_0">0</string>
+    <string name="de_economia_">De economia</string>
+    <string name="porcento">%</string>
+    <string name="de_economia__">De economia</string>
+    <string name="_00_00___">00,00</string>
+    <string name="economzados_por_litro">economzados por litro</string>
+    <string name="_divisor">Divisor</string>
+    <string name="abaste_a_com">Abasteça com</string>
+    <string name="gasolina__">Gasolina</string>
+    <string name="calcular_">Calcular</string>
+    <string name="mais_caro_que_a_gasolina">mais caro que a gasolina</string>
+    <string name="_00_00__">00.00</string>
+    <string name="cifrao">$</string>
+    <string name="mais_caro">Mais caro</string>
+    <string name="economizado_por_litro">Economizado por litro</string>
+    <string name="entenda_como_o_c_lculo_feito">Entenda como o cálculo é feito</string>
+    <string name="dividimos_o_valor_do_litro_do_lcool_pelo_da_gasolina">Dividimos o valor do litro do álcool pelo da gasolina.</string>
+    <string name="quando_o_resultado_menor_que_0_7_a_recomenda_o_abastecer_com_lcool_se_maior_a_recomenda_o_escolher_a_gasolina">Quando o resultado é menor que 0,7, a recomendação é abastecer com álcool. Se maior, a recomendação é escolher a gasolina.</string>
 </resources>

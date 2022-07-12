@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/drawable/background_alcool.xml" value="0.145" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/drawable/background_etanol.xml" value="0.145" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/drawable/background_gasolina.xml" value="0.2" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/drawable/button_entrar.xml" value="0.2065" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/drawable/ic_divisor.xml" value="0.145" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/drawable/ic_quadrado_laranja.xml" value="0.145" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/drawable/ic_quadrado_verde.xml" value="0.145" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/layout/activity_calculo.xml" value="0.22" />
-        <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/GasMoney/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
